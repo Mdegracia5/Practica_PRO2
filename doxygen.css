@@ -2,6 +2,7 @@
 
 body, table, div, p, dl {
 	font: 400 14px/22px Roboto,sans-serif;
+    background-image: linear-gradient(to bottom right, lavender, lavender);
 }
 
 /* @group Heading Levels */
